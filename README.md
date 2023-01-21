@@ -1,4 +1,4 @@
-# TSF-Projects-Jan-2023
+# TSF-Projects-Jan-2023-Task 1
 
 # Prediction-using-Supervised-ML
 This is an internship task of Data Science intern under GRIP JANUARY 2023 of The Sparks Foundation Company.
